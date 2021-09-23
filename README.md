@@ -18,7 +18,7 @@
 `http://localhost:3001/qrcode?sessionName=session1&image=true`
 
 - png
-- Pode ter a leitura do QRCode lido de forma mais precisa em algum terminal.
+- Pode ter a leitura do QRCode de forma mais precisa em algum terminal.
 - Observação: precisa ser aberto no browser de fundo branco para não comer as bordas do QRCode
 O QRCode está setado para dar refresh a cada 15 segundos, caso não consiga logar tente dar F5 na página não esquecer de colocar o nome da sessão que esta logando
 
