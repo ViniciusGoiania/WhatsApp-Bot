@@ -38,7 +38,7 @@ O QRCode está setado para dar refresh a cada 15 segundos, caso não consiga log
 `http://localhost:3001/sendFile`
 
 - corpo do JSON:
-- 
+
 {
     sessionName: "session1", <-(nome da sessão) 
     number: "5562",  <-(número que deseja enviar, precisa-se preencher com o DDI e DDD) 
