@@ -53,7 +53,7 @@ O QRCode está setado para dar refresh a cada 15 segundos, caso não consiga log
 
 - pode ser fechada também direta no celular (mais prático)
 
-## Observações Geral
+## Observações Gerais
 
 - Deve-se iniciar a sessão e depois logar nela com o leitor de QRCode do WhatsApp
 - O QRCode tem refresh a cada 15 segundos
